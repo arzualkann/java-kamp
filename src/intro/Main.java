@@ -78,6 +78,10 @@ public class Main {
 	   sehir1=sehir2;
 	   sehir2="İzmir";
 	   System.out.println(sehir1);
+	   
+	   for (int i =0; i<krediler.length;i++) {
+		   System.out.println(krediler[3]);
+	   }
 		
 		
 		
